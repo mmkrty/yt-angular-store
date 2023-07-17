@@ -1,0 +1,5 @@
+{
+  "editor.wordBreak": "keepAll",
+  "html.format.preserveNewLines": false,
+  "editor.wrappingIndent": "same"
+}
