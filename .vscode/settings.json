@@ -1,5 +1,10 @@
 {
   "editor.wordBreak": "keepAll",
   "html.format.preserveNewLines": false,
-  "editor.wrappingIndent": "same"
+  "editor.wrappingIndent": "same",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "scm.diffDecorationsIgnoreTrimWhitespace": "true",
+  "prettier.enable": true,
+  "diffEditor.diffAlgorithm": "advanced",
+  "diffEditor.wordWrap": "on"
 }
